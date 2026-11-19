@@ -25,7 +25,7 @@
       ]
     },
     {
-      "source": "/(about.*|agentathon.*|guvi.*|careconnect.*|crashaid.*|mindspace.*|socialmedia.*|photo.*|favicon.*)\\.(jpg|jpeg|png|svg|webp|ico)",
+      "source": "/(about.*|agentathon.*|guvi.*|careconnect.*|crashaid.*|mindspace.*|socialmedia.*|photo.*|favicon.*|logo.*)\\.(jpg|jpeg|png|svg|webp|ico)",
       "headers": [
         {
           "key": "Cache-Control",
